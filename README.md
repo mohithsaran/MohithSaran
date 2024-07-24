@@ -33,5 +33,5 @@ Feel free to reach out to me through any of the following platforms:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=ssgalactic&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ssgalactic&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mohithsaran&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsaran&layout=compact&theme=radical)
