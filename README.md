@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohithsaran&color=green)
 
 ## 🌟 About Me
-I am an aspiring Data Analyst/Data Scientist passionate about turning data into actionable insights. My journey in the world of data involves a blend of statistical analysis, machine learning, and data visualization to solve complex problems and make data-driven decisions.
+I am an aspiring Data Analyst/Data Scientist passionate about turning data into actionable insights. My journey in the world of data involves a blend of statistical analysis, data visualization to solve complex problems and make data-driven decisions.
 
 - 🔭 I’m currently working on improving my skills in analysis of data
 - 🌱 I’m learning Python libraries like Numpy,Pandas,Matplotlib,Seaborn.
